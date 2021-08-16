@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-CriandoVariaveisPontoFlut
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-ConversoesEOutrosTiposnumericos", "4-ConversoesEOutrosTiposnumericos\4-ConversoesEOutrosTiposnumericos.csproj", "{CF5732DE-98E8-4AA0-ADF4-37C06B4B40B8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{3814B149-FA85-48DD-A8D5-7DDF7D04DD8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CF5732DE-98E8-4AA0-ADF4-37C06B4B40B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF5732DE-98E8-4AA0-ADF4-37C06B4B40B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF5732DE-98E8-4AA0-ADF4-37C06B4B40B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3814B149-FA85-48DD-A8D5-7DDF7D04DD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3814B149-FA85-48DD-A8D5-7DDF7D04DD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3814B149-FA85-48DD-A8D5-7DDF7D04DD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3814B149-FA85-48DD-A8D5-7DDF7D04DD8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
