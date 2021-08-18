@@ -15,11 +15,11 @@ namespace _9_Escopo
 
             if (acompanhado == true)
             {
-                menssagemAdicional = "João está acompanhado!";
+                menssagemAdicional = "(João está acompanhado!)";
             }
             else
             {
-                menssagemAdicional = "joâo não está acompanhado";
+                menssagemAdicional = "(joâo não está acompanhado)";
             }
 
             if (idadeJoao >= 18 || acompanhado == true)// se joao tiver maior que 18 entra  e tiver acompanhado pode entrar 
