@@ -6,7 +6,7 @@ namespace _9_Escopo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando projeto 9 - Escopo ");
+            Console.WriteLine("Executando Projeto 9 - Escopo ");
 
 
             int idadeJoao = 18;
