@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _P10_CalculaPoupanca
+namespace P10_CalculaPoupanca
 {
     class Program
     {
