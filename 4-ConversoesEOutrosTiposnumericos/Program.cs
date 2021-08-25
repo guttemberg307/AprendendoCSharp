@@ -10,7 +10,6 @@ namespace _4_ConversoesEOutrosTiposnumericos
     {
         static void Main(string[] args)
         {
-
             Console.WriteLine("Executando o projeto 4");
 
             double salario;
@@ -20,19 +19,16 @@ namespace _4_ConversoesEOutrosTiposnumericos
             salarioEmInteiro = (int)salario; // conversao de double para inteiro   isso é chamdo de TYPE CASTING 
             Console.WriteLine(salarioEmInteiro); // vai imprimir 1200 
 
-            
             // o long é um tipo de variavel de 64 bits
             long idade = 130000000000000;
             Console.WriteLine(idade);
 
-           
             // short é uma variavel de 16 bits
             short quantidadeProdutos = 15000;
             Console.WriteLine(quantidadeProdutos);
             
             float altura = 1.80f;
             Console.WriteLine(altura);
-
 
             Console.ReadLine();
         }

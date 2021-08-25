@@ -8,9 +8,7 @@ namespace P11_CalculaPoupanca2
         {
             Console.WriteLine("Executando o projeto 11");
 
-
             double valorInvestido = 1000;
-
 
             for (int contadorMes = 1; contadorMes <= 12; contadorMes++)
             {

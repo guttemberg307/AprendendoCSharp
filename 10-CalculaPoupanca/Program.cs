@@ -11,7 +11,6 @@ namespace P10_CalculaPoupanca
             int contadorMes = 1;
             double valorInvestido = 1000;
 
-
             while (contadorMes <= 12)
             {
                 valorInvestido = valorInvestido + (valorInvestido * 0.0036);

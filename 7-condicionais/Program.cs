@@ -11,7 +11,6 @@ namespace _7_condicionais
             int idadeJoao = 14;
             int quantidadePesoas = 2;
 
-
             Console.WriteLine(idadeJoao);
 
             if (idadeJoao >= 18) // se joao tiver maior que 18 entra 

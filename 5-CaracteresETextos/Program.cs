@@ -11,7 +11,6 @@ namespace _5_CaracteresETextos
             char primeiraLetra = 'a';// aspas simples para representar somente um caracter
             Console.WriteLine(primeiraLetra);
 
-
             // tem como parametro ascii table 65 representa a letra A 
             primeiraLetra = (char)65; // (char) entre parenteses é chamado de castig que convertera int em char 
             Console.WriteLine(primeiraLetra);
@@ -28,9 +27,6 @@ namespace _5_CaracteresETextos
 
             Console.WriteLine(titulo);
             Console.WriteLine(cursosProgamacao);
-
-
-
 
             Console.ReadLine();
         }
